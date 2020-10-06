@@ -4,7 +4,7 @@ Ever since I can remember, I have been interested in technology, and would const
 
 ### Stack-Overflow Presence
 
-<a href="https://stackoverflow.com/users/5894166/muhammad-usama-ashraf" style="border: 0px;"><img src="https://stackoverflow.com/users/flair/5894166.png?theme=dark" width="208" height="58" alt="profile for Muhammad Usama Ashraf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Muhammad Usama Ashraf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" class="fr-fic fr-dii"></a>
+<a href="https://stackoverflow.com/users/5894166/muhammad-usama-ashraf" style="border: 0px;"><img src="https://stackoverflow.com/users/flair/5894166.png" width="208" height="58" alt="profile for Muhammad Usama Ashraf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Muhammad Usama Ashraf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" class="fr-fic fr-dii"></a>
 
 ### ALWAYS LEARNING
 Once a Student always a Students
