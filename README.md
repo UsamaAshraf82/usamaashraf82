@@ -35,4 +35,13 @@ Anime Watcher Watched over **150+** Anime
 6) Overlord
 7) [_**More**_](https://myanimelist.net/animelist/Usamaashraf82)
 
+## Gamer
+Gaming for Fun Only Since Childhood
+1) League of Legend (Unranked Player)
+2) GTA Series
+3) Assassin Creed Series
+4) Price of Persia Series
+5) Call of Duty Series
+7) _**More**_
+
 
