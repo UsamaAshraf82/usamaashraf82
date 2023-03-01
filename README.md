@@ -2,7 +2,7 @@
 
 I am a Programmer, Developer, Software Engineer From Pakistan :pakistan: and Working as a Full Time Freelancer (Currently Booked Fully)
 
-Workded on Many Small Project and Numbers of Medium Size Pojects and One Big Project
+Worked on Many Small Project and Numbers of Medium Size Pojects and One Big Project
 
 My Best Services are
 1) React (Create-React-App)
