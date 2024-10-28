@@ -6,10 +6,10 @@ Worked on Many Small Project and Numbers of Medium Size Pojects and One Big Proj
 
 My Best Services are
 1) React (Vite)
-2) React Native
-3) ExpressJS
-4) NextJS
-5) and Various Javascript Services Also
+1) NextJS
+1) React Native
+1) ExpressJS
+1) and Various Javascript Services Also
 
 
 ## History
